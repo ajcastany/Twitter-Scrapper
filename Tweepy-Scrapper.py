@@ -17,9 +17,9 @@ except ModuleNotFoundError as e:
     print("Program terminated")
     exit()
 try:
-    import Q4_c1868921 as q_four
+    import graph_module as q_four
 except ModuleNotFoundError as e:
-    ui.warning("Q4_c1868921.py not found!")
+    ui.warning("graph-module.py not found!")
 
 
 """=============================================================================
@@ -37,8 +37,8 @@ access_token_secret = 'k77qveVFaTbrXcpyyGEcZASlYNRTOVwDb8Rqho2qCNU3Y'
                     G L O B A L  -  C O N S T A N T S
 ============================================================================"""
 
-TWEETS_DB = "Q3_sqlite_c1868921.sqlite"
-CSV_FILE = 'Q3_csv_c1868921.csv'
+TWEETS_DB = "tweets.sqlite"
+CSV_FILE = 'tweets.csv'
 TABLE_NAME = "trump"
 
 """============================================================================

@@ -21,8 +21,8 @@ except ModuleNotFoundError as e:
     exit()
 
 
-TWEETS_DB = "Q3_sqlite_c1868921.sqlite"
-CSV_FILE = 'Q3_csv_c1868921.csv'
+TWEETS_DB = "tweets.sqlite"
+CSV_FILE = 'tweets.csv'
 TABLE_NAME = 'tweets'
 
 
