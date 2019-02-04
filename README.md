@@ -95,7 +95,8 @@ I thought table `old_trump` had incorrect sentiment values (5.00+, etc).  But th
 
 ## Tested on...
 
-Linux Mint Tara 19
+- Linux Mint Tara 19
+- Ubuntu 18.04 bionic
 
 ## Package contains:
 
