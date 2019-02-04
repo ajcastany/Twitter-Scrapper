@@ -97,13 +97,3 @@ I thought table `old_trump` had incorrect sentiment values (5.00+, etc).  But th
 
 - Linux Mint Tara 19
 - Ubuntu 18.04 bionic
-
-## Package contains:
-
-    [ ] Cover Sheet
-    [ ] Q1_Q2_c1868921.py
-    [ ] Q3_c1868921.py: main program
-    [ ] Q4_c1868921.py: plot module.  If run on its own it will show and save the plots for table trump.
-    [ ] Q3_sqlite_c1868921.sqlite: Database with tables: trump, old_trump, brexit, theresa_may and deadpool.
-    [ ] Q4_graphs_c1868921.doc or pdf
-    [ ] README.md:
